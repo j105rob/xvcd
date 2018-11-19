@@ -13,5 +13,8 @@ Installation on CentOS 7.x
 
 Requires libftdi-devel from EPEL
 
-` yum install libftdi-devel`
+```
+yum install libftdi-devel 
+
+```
 
