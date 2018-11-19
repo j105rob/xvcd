@@ -7,3 +7,11 @@ not be available on your platform. You can use the (much slower) non-async
 version instead.
 
 Have fun!
+
+Installation on CentOS 7.x
+===========================
+
+Requires libftdi-devel from EPEL
+
+` yum install libftdi-devel`
+
